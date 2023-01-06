@@ -2,7 +2,7 @@
 Reposistório criado para o treinamento sobre o Github.
 
 # Objetivo
-Repositório para realização de atividade proposta no nosso treinamento.
+Repositório para realização de atividade proposta no nosso treinamento Learning Session.
 
 # Atividade Proposta (Dia 01 - 05/Jan/2023)
 Criar um repositorio:
@@ -27,4 +27,4 @@ Criar um repositorio:
 8. Fazer um pull request;
 9. Fazer um merge.
 
-# Autor: Juliana Ferreira
+# Autor: Juliana Ferreira Borges
